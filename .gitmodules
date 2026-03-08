@@ -1,0 +1,12 @@
+[submodule "flywheel"]
+	path = flywheel
+	url = https://github.com/Engine-Room/Flywheel
+[submodule "architectury-api"]
+	path = architectury-api
+	url = https://github.com/architectury/architectury-api
+[submodule "create-fabric"]
+	path = create-fabric
+	url = https://github.com/Fabricators-of-Create/Create
+[submodule "create-forge"]
+	path = create-forge
+	url = https://github.com/Creators-of-Create/Create
